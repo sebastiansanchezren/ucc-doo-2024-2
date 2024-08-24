@@ -1,0 +1,9 @@
+total 16
+drwxrwxrwx 1 sebastiansanchezre sebastiansanchezre   512 Aug 23 19:51 ./
+drwxrwxrwx 1 sebastiansanchezre sebastiansanchezre   512 Aug 23 19:21 ../
+drwxrwxrwx 1 sebastiansanchezre sebastiansanchezre   512 Aug 23 19:21 .git/
+-rwxrwxrwx 1 sebastiansanchezre sebastiansanchezre   290 Aug 23 19:21 .gitignore*
+-rwxrwxrwx 1 sebastiansanchezre sebastiansanchezre    16 Aug 23 19:21 README.md*
+-rwxrwxrwx 1 sebastiansanchezre sebastiansanchezre 13294 Aug 23 19:50 archivo-01-huellas.txt*
+-rwxrwxrwx 1 sebastiansanchezre sebastiansanchezre   112 Aug 23 19:51 archivo-02-huellas.txt*
+-rwxrwxrwx 1 sebastiansanchezre sebastiansanchezre     0 Aug 23 19:51 archivo-03-huellas.txt*
